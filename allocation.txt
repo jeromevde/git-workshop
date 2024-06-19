@@ -1,0 +1,4 @@
+- M&MR : 60 seats
+- Validation : 40 seats
+- RMO : 10 seats
+- IMD : 10 seats
